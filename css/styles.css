@@ -26,6 +26,10 @@ div {
     float: left;
 }
 
+ul li h1 {
+  width: 500px;
+}
+
 body {
     background-image: url("../img/congruent_pentagon.png");
 }
@@ -38,6 +42,7 @@ body {
     background: #ffbe1d;
     padding: 5px;
     font-size: 20px;
+   
 }
 .row div {
     padding-left: 5px;
@@ -146,6 +151,7 @@ p {
 
 .orbiter_daddy {
     margin-top: 30px;
+
 }
 
 .about {

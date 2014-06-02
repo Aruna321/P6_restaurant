@@ -5,7 +5,7 @@ $(document).foundation({
 		resume_on_mouseout: true,
 		pause_on_hover: true,
 		slide_number: false,
-		
+		timer_show_progress_bar: false,
 		bullets: false,
 		timer: true
 
